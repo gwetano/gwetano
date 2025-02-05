@@ -1,11 +1,11 @@
-# Welcome to My GitHub! 👋
+# 👋 Hello! I'm Gaetano
 
 ## About Me
+I am a **Computer Engineering** student with a deep passion for:
 
-Hi! My name is Gaetano, and I am a **Computer Engineering** student with a deep passion for:
-
-- **3D Printing** 🖨️
-- **3D Modeling** 🧊
+- **3D Printing** 
+- **3D Modeling** 
+- **Coding** 
 ---
 
 ## What You'll Find Here
@@ -35,5 +35,3 @@ Do you have ideas, questions, or collaboration proposals? Feel free to reach out
 - **Instagram**: [gwetano](https://www.instagram.com/gwetano/)
 
 Thank you for visiting my GitHub profile! 🚀  
-I am excited to share ideas and projects with the community.
-
