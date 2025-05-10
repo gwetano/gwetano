@@ -7,8 +7,7 @@ I am a **Computer Engineering** student with a deep passion for:
 - **Graphic and Video editing**
 - **Microcontroller**
 
-[gif](https://media.giphy.com/media/IPxQfq8i4J1CM/giphy.gif?cid=ecf05e47fwyv2839l5cjnld7ttl16yy4hirmx1jw196ayux5&ep=v1_gifs_related&rid=giphy.gif&ct=g)
-
+![gif](https://media.giphy.com/media/bxqhC4krjPN04/giphy.gif?cid=ecf05e47fwyv2839l5cjnld7ttl16yy4hirmx1jw196ayux5&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 
 On this GitHub profile, I share projects and resources related to:
 
