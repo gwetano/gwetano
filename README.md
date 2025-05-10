@@ -1,19 +1,20 @@
 # 👋 Hello! I'm Gaetano
 
-## About Me
 I am a **Computer Engineering** student with a deep passion for:
 
-- **3D Printing** 
-- **3D Modeling** 
 - **Coding** 
----
+- **3D Printing/Modeling** 
+- **Graphic and Video editing**
+- **Microcontroller**
 
-## What You'll Find Here
+[gif](https://media.giphy.com/media/IPxQfq8i4J1CM/giphy.gif?cid=ecf05e47fwyv2839l5cjnld7ttl16yy4hirmx1jw196ayux5&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+
 
 On this GitHub profile, I share projects and resources related to:
 
 - **Programming**: Applications, scripts, and tools developed during my studies or for personal use.
 - **3D Models**: Designs and STL files optimized for 3D printing.
+- **Microcontroller Projects**: Arduino, ESP32, and similar builds — complete with code, circuit details, and (sometimes) custom 3D printable parts.
   
 ---
 
@@ -21,13 +22,13 @@ On this GitHub profile, I share projects and resources related to:
 
 Here are some of the tools and technologies I use most frequently:
 
-- **Languages**: C, Java, HTML/CSS.
-- **3D Modeling Software**: Blender, OnShape, and Thinkercad.
+- **Languages**: C, Java, HTML/CSS, JavaScript, Python. 
+- **3D Modeling Software**: Blender, OnShape.
 - **3D Printing Slicer Software**: Cura.
 
 ---
 
-## How to Contact Me
+## Contact Me
 
 Do you have ideas, questions, or collaboration proposals? Feel free to reach out:
 
