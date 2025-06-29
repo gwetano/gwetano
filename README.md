@@ -21,10 +21,9 @@ On this GitHub profile, I share projects and resources related to:
 
 Here are some of the tools and technologies I use most frequently:
 
-- **Languages**: C, Java, HTML/CSS, JavaScript, Python. 
+- **Languages**: C, Java, JavaScript, Python 
 - **3D Modeling Software**: Blender, OnShape.
-- **3D Printing Slicer Software**: Cura.
-
+  
 ---
 
 ## Contact Me
