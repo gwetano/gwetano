@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Gaetano
+# Hi! I'm Gaetano
 
 I am a **Computer Engineering** student with a deep passion for:
 
