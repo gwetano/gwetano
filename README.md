@@ -30,7 +30,7 @@ Here are some of the tools and technologies I use most frequently:
 
 Do you have ideas, questions, or collaboration proposals? Feel free to reach out:
 
-- **Email**: [gaetanocarbone2004@gmail.com](mailto:gaetanocarbone2004@gmail.com)
+- **Email**: [gaetanocarbone@hotmail.com](mailto:gaetanocarbone@hotmail.com)
 - **Instagram**: [gwetano](https://www.instagram.com/gwetano/)
 
 Thank you for visiting my GitHub profile! 🚀  
