@@ -1,36 +1,49 @@
-# Hi! I'm Gaetano
+# Hi! I’m Gaetano Carbone
 
-I am a **Computer Engineering** student with a deep passion for:
+I am a Computer Engineering student specializing in **Embedded Systems**. I recently completed my Bachelor’s degree and I’m genuinely passionate about how hardware and software talk to each other. I like building things that work, whether they live in a microcontroller or on a desktop.
 
-- **Coding** 
-- **3D Printing/Modeling** 
-- **Graphic and Video editing**
-- **Microcontroller**
+![gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWlsNXQ2azk5YmFrNXd5Z2JpNjBmN3Ruanl1Mjh2MzhtaDRlamp4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZXl7ePJLDTrzLT9AVi/giphy.gif)
 
-![gif](https://media.giphy.com/media/bxqhC4krjPN04/giphy.gif?cid=ecf05e47fwyv2839l5cjnld7ttl16yy4hirmx1jw196ayux5&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+***
 
-On this GitHub profile, I share projects and resources related to:
+### Project Overview & Quick Links
 
-- **Programming**: Applications, scripts, and tools developed during my studies or for personal use.
-- **3D Models**: Designs and STL files optimized for 3D printing.
-- **Microcontroller Projects**: Arduino, ESP32, and similar builds — complete with code, circuit details, and (sometimes) custom 3D printable parts.
-  
+#### [Algorithms & Logic]
+
+Small implementations and exercises focused on understanding various algorithms.
+
+* **[Word Predictor](https://github.com/gwetano/word-predictor):** A Java-based engine using Markov chains to predict the next word in a sequence.
+* **[Simple 1-NN](https://github.com/gwetano/NearestNeighbor):** A minimal, 100-line implementation of a 1-Nearest Neighbor classifier.
+
+#### [Personal Utilities]
+
+Tools I built because I needed them to work better.
+
+* **[mark](https://github.com/gwetano/mark):** A Markdown editor designed for my personal note-taking workflow.
+* **[slash](https://github.com/gwetano/slash):** A minimal Electron-based floating search bar for quick commands, calculations, and web searches.
+
+#### [Academic Explorations]
+
+A collection of projects developed during my university path
+
 ---
 
-## My Favorite Tools
+### Hardware & 3D Design
 
-Here are some of the tools and technologies I use most frequently:
+I use 3D modeling to complement my engineering projects. It’s about making the hardware functional and portable.
 
-- **Languages**: C, Java, JavaScript, Python 
-- **3D Modeling Software**: Blender, OnShape.
-  
+* **[Arduino Nano Magnetic Case](https://github.com/gwetano/MagneticCaseArduinoNano):** A custom-designed enclosure with integrated magnets for easy mounting.
+* **[Apple Watch Pocket Case](https://github.com/gwetano/apple-watch-pocket-case):** A 3D-printed housing designed to use the Apple Watch as a pocket device.
+
 ---
 
-## Contact Me
+### Technical Toolkit
 
-Do you have ideas, questions, or collaboration proposals? Feel free to reach out:
+* **Core:** C,  Java, VHDL, Python, JavaScript
+* **Embedded:** ESP32, Arduino, RTOS Basics
 
-- **Email**: [gaetanocarbone@hotmail.com](mailto:gaetanocarbone@hotmail.com)
-- **Instagram**: [gwetano](https://www.instagram.com/gwetano/)
+---
 
-Thank you for visiting my GitHub profile! 🚀  
+### Contact
+
+Whether you have a question about my projects or just want to nerd out about something, my inbox is always open:  [gaetanocarbone@hotmail.com](mailto:gaetanocarbone@hotmail.com)
